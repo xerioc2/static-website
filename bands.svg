@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 240" role="img" aria-label="Music illustration">
+  <rect width="400" height="240" rx="24" fill="#111827"/>
+  <circle cx="120" cy="150" r="45" fill="#38bdf8"/>
+  <circle cx="280" cy="95" r="35" fill="#f472b6"/>
+  <path d="M82 150h-30v20h30" stroke="#f8fafc" stroke-width="8" fill="none"/>
+  <path d="M165 150h30v20h-30" stroke="#f8fafc" stroke-width="8" fill="none"/>
+  <path d="M245 95h30v20h-30" stroke="#f8fafc" stroke-width="8" fill="none"/>
+  <path d="M315 95h25v20h-25" stroke="#f8fafc" stroke-width="8" fill="none"/>
+  <path d="M110 70v80" stroke="#f8fafc" stroke-width="8" stroke-linecap="round"/>
+  <path d="M270 40v70" stroke="#f8fafc" stroke-width="8" stroke-linecap="round"/>
+  <path d="M90 70l20-15" stroke="#f8fafc" stroke-width="8" stroke-linecap="round"/>
+  <path d="M250 40l20-10" stroke="#f8fafc" stroke-width="8" stroke-linecap="round"/>
+</svg>
